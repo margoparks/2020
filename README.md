@@ -26,11 +26,11 @@ I will have to learn Javascript and become more acquainted with front-end design
 
 ### Wireframes
 <ul>
-  <li> IMG_1905.HEIC </li>
-  <li> IMG_1906.HEIC </li>
-  <li>  IMG_1907.HEIC </li>
-  <li> [Image 4]  (https://github.com/margoparks/2020/blob/master/IMG_1908.HEIC)</li>
- <ul>
+  <li> [2020 Index Page](https://github.com/margoparks/2020/blob/master/IMG_1905.HEIC) </li>
+  <li> [View all candidates and brief descriptions](https://github.com/margoparks/2020/blob/master/IMG_1906.HEIC) </li>
+  <li> [Compare candidates by platform points and voting history](https://github.com/margoparks/2020/blob/master/IMG_1907.HEIC) </li>
+  <li> [Filter candidates by issue based topics](https://github.com/margoparks/2020/blob/master/IMG_1908.HEIC) </li>
+ </ul>
 
 ### Project Tracker
 https://trello.com/b/2EUN5cdv/2020
