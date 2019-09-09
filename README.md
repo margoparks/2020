@@ -24,5 +24,13 @@ This application will allow users to compare presidential candidates based on ea
 ### What I'll Have to Learn
 I will have to learn Javascript and become more acquainted with front-end design to make the user experience as appealing snd efficient as possible. I will also have to learn to connect to APIs so I can use social media APIs to allow users to share their research on their social media profiles and Google Civic to query information about the candidates.
 
+### Wireframes
+<ul>
+  <li> IMG_1905.HEIC </li>
+  <li> IMG_1906.HEIC </li>
+  <li>  IMG_1907.HEIC </li>
+  <li> IMG_1908.HEIC </li>
+ <ul>
+
 ### Project Tracker
 https://trello.com/b/2EUN5cdv/2020
