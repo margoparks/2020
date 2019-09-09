@@ -25,12 +25,11 @@ This application will allow users to compare presidential candidates based on ea
 I will have to learn Javascript and become more acquainted with front-end design to make the user experience as appealing snd efficient as possible. I will also have to learn to connect to APIs so I can use social media APIs to allow users to share their research on their social media profiles and Google Civic to query information about the candidates.
 
 ### Wireframes
-<ul>
-  <li> [2020 Index Page](https://github.com/margoparks/2020/blob/master/IMG_1905.HEIC) </li>
-  <li> [View all candidates and brief descriptions](https://github.com/margoparks/2020/blob/master/IMG_1906.HEIC) </li>
-  <li> [Compare candidates by platform points and voting history](https://github.com/margoparks/2020/blob/master/IMG_1907.HEIC) </li>
-  <li> [Filter candidates by issue based topics](https://github.com/margoparks/2020/blob/master/IMG_1908.HEIC) </li>
- </ul>
+  -[2020 Index Page](https://github.com/margoparks/2020/blob/master/IMG_1905.HEIC)
+  -[View all candidates and brief descriptions](https://github.com/margoparks/2020/blob/master/IMG_1906.HEIC)
+  -[Compare candidates by platform points and voting history](https://github.com/margoparks/2020/blob/master/IMG_1907.HEIC)
+  -[Filter candidates by issue based topics](https://github.com/margoparks/2020/blob/master/IMG_1908.HEIC)
+ 
 
 ### Project Tracker
 https://trello.com/b/2EUN5cdv/2020
