@@ -29,7 +29,7 @@ I will have to learn Javascript and become more acquainted with front-end design
   <li> IMG_1905.HEIC </li>
   <li> IMG_1906.HEIC </li>
   <li>  IMG_1907.HEIC </li>
-  <li> IMG_1908.HEIC </li>
+  <li> https://github.com/margoparks/2020/blob/master/IMG_1908.HEIC </li>
  <ul>
 
 ### Project Tracker
