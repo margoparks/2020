@@ -1,11 +1,4 @@
 # 2020
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
 
 ### Overview
 This application will allow users to compare presidential candidates based on each candidates proposals for comminly discussed issues. Users will also be able to group and view all candidates based on commonalities in policy proposals and political experience. I was inspired to create this application last year when I realized that a lot of political discourse is inaccessible to the average internet user. The rapid speed of the internet and the 24 hour news cycle can make it difficult and tiring to keep up with every moment of an election cycle. This app, however, will provide access to nonbiased information on mundane topics that Americans are concerned about so each person can make more informed political decisions. 
@@ -29,7 +22,7 @@ This application will allow users to compare presidential candidates based on ea
 </ul>
 
 ### What I'll Have to Learn
-I will have to learn Javascript and become more acquainted with front-end design to make the user experience as appealing as possible. I will also have to learn to use social media APIs to allow users to share their research on their social media profiles.
+I will have to learn Javascript and become more acquainted with front-end design to make the user experience as appealing snd efficient as possible. I will also have to learn to connect to APIs so I can use social media APIs to allow users to share their research on their social media profiles and Google Civic to query information about the candidates.
 
 ### Project Tracker
 https://trello.com/b/2EUN5cdv/2020
